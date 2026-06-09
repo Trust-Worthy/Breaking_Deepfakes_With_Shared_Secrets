@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Breaking Deepfakes With Shared Secrets</h1>
-<p align="center"><strong>Building The Doppelgänger Protocol™</strong></p>
+<p align="center"><strong>Building The Doppelgänger Protocol</strong></p>
 
 <p align="center">
   <a href="https://opensourcecryptowork.shop/2026/index.html"><strong>OSCW 2026 Presentation</strong></a> • 
