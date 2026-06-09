@@ -11,6 +11,9 @@
   <a href="https://doppelgangerprotocol.app/verify"><strong>Live Demo Platform</strong></a>
 </p>
 
+> ### ⚡ Impromtu Spotlight: BSides Buffalo 2026
+> Following a last-minute presenter cancellation, this talk was delivered as an impromptu session at **BSides Buffalo** on Saturday, June 6, 2026. Thanks to the organizers for opening up the slot!
+
 ---
 
 ## Abstract
